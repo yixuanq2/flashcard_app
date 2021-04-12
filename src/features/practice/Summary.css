@@ -1,0 +1,19 @@
+.right-answer {
+    border-radius: 20%;
+    border-color: lawngreen;
+    border-style: solid;
+    font-size: 20px;
+
+}
+
+.wrong-answer {
+    border-radius: 20%;
+    border-color: red;
+    border-style: solid;
+    font-size: 20px;
+}
+
+.result-container {
+    margin-top: 10%;
+    text-align: center;
+}

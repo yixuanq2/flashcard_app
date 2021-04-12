@@ -1,0 +1,16 @@
+{
+  "collection": [
+    {
+      "id": 1,
+      "name": "Driving Permit Test 1"
+    },
+    {
+      "id": 2,
+      "name": "Driving Permit Test 2"
+    },
+    {
+      "id": 3,
+      "name": "Demo Test"
+    }
+  ]
+}

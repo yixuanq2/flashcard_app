@@ -1,0 +1,75 @@
+.flip-container {
+    perspective: 1000px;
+    text-align: center;
+}
+
+.flip-container .cardClicked {
+    transform: rotateY(180deg);
+}
+
+.flip-container, .front, .back {
+    margin: 3% auto 0 auto;
+    width: 360px;
+    height: 540px;
+}
+
+.back {
+    padding-top: 20px;
+}
+
+.cardClicked {
+    transition: 0.6s;
+    transform-style: preserve-3d;
+    position: relative;
+}
+
+.front, .back {
+    /*border-style: solid;*/
+    border-width: 1px;
+    border-radius: 25px;
+    box-shadow: 1px 1px 2px 2px #888888;
+    backface-visibility: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.front {
+    z-index: 2;
+}
+
+.back {
+    transform: rotateY(180deg);
+}
+
+.correct {
+    color: limegreen;
+}
+
+.incorrect {
+    color: red;
+}
+
+.optionList {
+    text-align: left;
+    margin: 30px auto 0 10px;
+}
+
+.cardButton {
+    position: absolute;
+    bottom: 2%;
+    left: 40%;
+}
+
+.question-title {
+    text-align: left;
+    padding-left: 20px;
+    height: 150px;
+}
+
+.practice-timeout {
+    position: absolute;
+    right: 18%;
+    top: 12%;
+    font-size: 30px;
+}

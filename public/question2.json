@@ -1,0 +1,77 @@
+{
+  "data": [   {
+    "question": "What should you do if a railroad crossing has no warning devices?",
+    "options": [
+      "Stop within 15 feet of the railroad crossing.",
+      "Increase your speed and cross the tracks quickly.",
+      "Slow down and then proceed with caution."
+    ],
+    "answer": [
+      1
+    ],
+    "time": 300,
+    "id": 0,
+    "level": 1,
+    "correct_count": 0
+  },
+    {
+      "question": "When you come to a stop sign, you must stop your vehicle:",
+      "options": [
+        "As close to the stop sign as possible.",
+        "At a place near the intersection providing you come to a complete stop.",
+        "At a marked stop line, before entering the crosswalk, or before entering the intersection if there is no crosswalk."
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 1,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "When headlights are required, they should be dimmed at least 500 feet before meeting and 300 feet before overtaking another vehicle.",
+      "options": [
+        "True",
+        "False."
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 2,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "When driving along the highway and the front right wheel of your vehicle runs off the pavement, you should:",
+      "options": [
+        "Quickly swing back onto the pavement at your normal speed.",
+        "Grasp the steering wheel tightly and take your foot off the accelerator.",
+        "Apply the brakes immediately and swing back onto the pavement quickly."
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 3,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "An individual\u2019s driving privileges may be suspended under which of the following conditions?",
+      "options": [
+        "Three reckless driving offenses in 12 months.",
+        "Drag or street racing.",
+        "Illegally transporting alcohol twice in 12 months by a person over age"
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 4,
+      "level": 1,
+      "correct_count": 0
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+.question-number-selector {
+    display: block;
+    width: 15%;
+}
+
+.collection-item {
+    display: inline-block;
+    margin-right: 30px;
+
+}
+
+.collection-image {
+    width: 100px;
+    height: 100px;
+}
+
+.collection-caption {
+    /*max-width: 100px;*/
+}
+
+
+.login-widget {
+    width: 200px;
+    float: right;
+    font-size: 1.2em;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.sign-in-user {
+    width: 400px;
+    float: right;
+    font-size: 1.2em;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}

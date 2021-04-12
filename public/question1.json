@@ -1,0 +1,1101 @@
+{
+  "data": [
+    {
+      "question": "What should you do if a railroad crossing has no warning devices?",
+      "options": [
+        "Stop within 15 feet of the railroad crossing.",
+        "Increase your speed and cross the tracks quickly.",
+        "Slow down and then proceed with caution."
+      ],
+      "answer": [
+        3
+      ],
+      "time": 300,
+      "id": 0,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "When you come to a stop sign, you must stop your vehicle:",
+      "options": [
+        "As close to the stop sign as possible.",
+        "At a place near the intersection providing you come to a complete stop.",
+        "At a marked stop line, before entering the crosswalk, or before entering the intersection if there is no crosswalk."
+      ],
+      "answer": [
+        3
+      ],
+      "time": 300,
+      "id": 1,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "When headlights are required, they should be dimmed at least 500 feet before meeting and 300 feet before overtaking another vehicle.",
+      "options": [
+        "True",
+        "False."
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 2,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "When driving along the highway and the front right wheel of your vehicle runs off the pavement, you should:",
+      "options": [
+        "Quickly swing back onto the pavement at your normal speed.",
+        "Grasp the steering wheel tightly and take your foot off the accelerator.",
+        "Apply the brakes immediately and swing back onto the pavement quickly."
+      ],
+      "answer": [
+        2
+      ],
+      "time": 300,
+      "id": 3,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "An individual\u2019s driving privileges may be suspended under which of the following conditions?",
+      "options": [
+        "Three reckless driving offenses in 12 months.",
+        "Drag or street racing.",
+        "Illegally transporting alcohol twice in 12 months by a person over age"
+      ],
+      "answer": [
+        3
+      ],
+      "time": 300,
+      "id": 4,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "Drivers are not required to yield to pedestrians in a crosswalk.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        2
+      ],
+      "time": 300,
+      "id": 5,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "What should drivers do when approaching a construction area?",
+      "options": [
+        "Slow down, stop all wireless telephone communications and yield the right-of-way.",
+        "Honk their horn several times to alert individuals working in the area of their presence.",
+        "Increase their speed to get out of the way quickly."
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 6,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "Most rear end collisions are caused by:",
+      "options": [
+        "Dangerous road conditions.",
+        "The vehicle in front stopping too fast.",
+        "The vehicle in back following too closely."
+      ],
+      "answer": [
+        3
+      ],
+      "time": 300,
+      "id": 7,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "This sign means:",
+      "options": [
+        "Yield Right-of-Way",
+        "No Passing Zone",
+        "Reduction in Lanes"
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 8,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "Which of the following is the single greatest factor in fatal motor vehicle \naccidents?",
+      "options": [
+        "Alcohol.",
+        "Mechanical problems.",
+        "Bad weather conditions. D. Bad road conditions."
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 9,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "The alcoholic content of a 5-ounce glass of wine, a 12-ounce bottle of beer, or \n11/2 ounces of whiskey is:",
+      "options": [
+        "greatest in the whiskey",
+        "greatest in the glass of wine",
+        "about the same \nD. least in the bottle of beer"
+      ],
+      "answer": [
+        3
+      ],
+      "time": 300,
+      "id": 10,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "When a right turn against a red signal light is allowed, the proper way to make \nthe turn is to:",
+      "options": [
+        "Stop, give right-of-way to any persons or vehicles within the intersection; then \ncautiously make your turn.",
+        "Turn quickly to get out of the way of other vehicles."
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 11,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "This sign means:",
+      "options": [
+        "Merge",
+        "Stop",
+        "Warning of a Change in Direction or Narrowing of Roadway"
+      ],
+      "answer": [
+        2
+      ],
+      "time": 300,
+      "id": 12,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "This sign means:",
+      "options": [
+        "Stop Sign Ahead",
+        "No Right Turn",
+        "Divided Highway"
+      ],
+      "answer": [
+        2
+      ],
+      "time": 300,
+      "id": 13,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "This sign means:",
+      "options": [
+        "Traffic Signal Ahead",
+        "Road Construction/Maintenance Area",
+        "Slow-Moving Vehicle"
+      ],
+      "answer": [
+        3
+      ],
+      "time": 300,
+      "id": 14,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "This sign means:",
+      "options": [
+        "Winding Road Ahead",
+        "Merge",
+        "Persons with Disabilities Parking"
+      ],
+      "answer": [
+        2
+      ],
+      "time": 300,
+      "id": 15,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "This sign means:",
+      "options": [
+        "No Passing Zone",
+        "Railroad Warning"
+      ],
+      "answer": [
+        2
+      ],
+      "time": 300,
+      "id": 16,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "This sign means:",
+      "options": [
+        "Pedestrian Crossing",
+        "School Zone and Crossing",
+        "Railroad Warning"
+      ],
+      "answer": [
+        2
+      ],
+      "time": 300,
+      "id": 17,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "This sign means:",
+      "options": [
+        "Road Construction/Maintenance Area",
+        "Side Road",
+        "Railroad Warning"
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 18,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "When passing another vehicle, you should not cut back into the right lane until you \ncan see the vehicle that you just passed in your rearview mirror.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 19,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "When a school bus is stopped on a two-lane highway and its red warning lights are flashing and \nits stop signal arm is extended, you must:",
+      "options": [
+        "Slow down, sound your horn and pass the bus with caution.",
+        "Stop your vehicle before reaching the bus.",
+        "Pass the bus on the left if there are no vehicles approaching from the opposite direction."
+      ],
+      "answer": [
+        2
+      ],
+      "time": 300,
+      "id": 20,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "How should a driver proceed if within an intersection waiting to make a left turn and the \ntraffic signal light turns red?",
+      "options": [
+        "Yield to oncoming traffic and complete the turn.",
+        "Make sure it is clear, then back up from the intersection.",
+        "Wait in the intersection until the light turns green."
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 21,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "A person may never drive a motor vehicle (even if borrowed or rented for a short period \nof time) unless the operator holds a valid driver\u2019s license which is properly classified for that \nkind and type of vehicle.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 22,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "If moving with a stream of vehicles across a railroad track, it is safe to stop on the track \nfor a short period of time.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        2
+      ],
+      "time": 300,
+      "id": 23,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "When there are flashing signals at a railroad crossing and the train clears the crossing, how soon should you proceed?",
+      "options": [
+        "Follow the vehicle ahead of you.",
+        "After you check to make sure another train is not approaching on another track.",
+        "Just as soon as the train clears the crossing."
+      ],
+      "answer": [
+        2
+      ],
+      "time": 300,
+      "id": 24,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "When a two-lane pavement is marked with a single, solid yellow line on your side of the center line:",
+      "options": [
+        "Construction work is going on ahead, slow down.",
+        "You must not cross the yellow line to pass another vehicle.",
+        "You must slow down and proceed with caution."
+      ],
+      "answer": [
+        2
+      ],
+      "time": 300,
+      "id": 25,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "What should a driver do when approaching a traffic control signal that is not in operation?",
+      "options": [
+        "Drive quickly through the intersection to get out of the way of other vehicles.",
+        "Come to a full stop and yield the right-of-way before entering the intersection.",
+        "If the intersection is clear, the driver does not need to stop."
+      ],
+      "answer": [
+        2
+      ],
+      "time": 300,
+      "id": 26,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "Most rear-end collisions are caused by the vehicle in back following too closely.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 27,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "It is illegal for persons under age 21 to drive with any trace of alcohol or drugs in their system.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 28,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "Motorcyclists are entitled to use the full width of a traffic lane; therefore, a driver should pass a motorcycle the same way a driver would pass another vehicle.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 29,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "In urban areas, drivers moving out of an alley, building, private road or driveway need not come to a complete stop before entering the roadway if the roadway is clear of traffic",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        2
+      ],
+      "time": 300,
+      "id": 30,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "Which of the following laws and safety rules apply to bicyclists?",
+      "options": [
+        "Bicyclists should travel in the opposite direction of other vehicles.",
+        "The safest hours for operation are during times of poor visibility.",
+        "Bicyclists are entitled to the same right-of-way as other vehicles."
+      ],
+      "answer": [
+        3
+      ],
+      "time": 300,
+      "id": 31,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "When making a left or right turn in a business or residential district, a continuous signal to turn must be given:",
+      "options": [
+        "Not less than 100 feet before turning.",
+        "Only when vehicles are coming toward you.",
+        "At least 50 feet from the intersection."
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 32,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "If arrested with a blood-alcohol concentration of .08 percent or more, an individual\u2019s driving privileges will be suspended for at least six months.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 33,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "When an authorized emergency vehicle which is using its siren and flashing lights approaches your vehicle, you should:",
+      "options": [
+        "Increase your speed.",
+        "Continue at the same speed.",
+        "Pull over to the right hand edge of the highway and stop, if possible."
+      ],
+      "answer": [
+        3
+      ],
+      "time": 300,
+      "id": 34,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "If your vehicle starts to skid on water (hydroplane), you should:",
+      "options": [
+        "Take your foot off the accelerator and let your vehicle slow down.",
+        "Turn your wheel slightly to the right and brake gently.",
+        "Turn your ignition off and coast to a stop."
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 35,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "This sign means:",
+      "options": [
+        "Stop",
+        "Yield Right-of-way",
+        "Traffic Signal Ahead"
+      ],
+      "answer": [
+        3
+      ],
+      "time": 300,
+      "id": 36,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "This sign means:",
+      "options": [
+        "Reduction in Lanes",
+        "Stop Sign Ahead",
+        "Merge"
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 37,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "If you are convicted of passing a school bus that is receiving or discharging passengers, you may lose your driver\u2019s license for at least 30 days.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        2
+      ],
+      "time": 300,
+      "id": 38,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "The road surface of a bridge may be dangerous in winter because:",
+      "options": [
+        "The bridge surface is warmer.",
+        "There may be ice on bridges even when other pavements are clear.",
+        "Neither of these."
+      ],
+      "answer": [
+        2
+      ],
+      "time": 300,
+      "id": 39,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "Illinois law requires that headlights be on when atmospheric conditions require the use of windshield wipers.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 40,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "A flashing red traffic signal light at an intersection means:",
+      "options": [
+        "An emergency vehicle is approaching from your rear.",
+        "You should be careful when going through the intersection.",
+        "Exactly the same thing as a stop sign."
+      ],
+      "answer": [
+        3
+      ],
+      "time": 300,
+      "id": 41,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "It is permissible for you to pass on the shoulder of the road.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        2
+      ],
+      "time": 300,
+      "id": 42,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "When required to stop at railroad crossings, vehicles must stop:",
+      "options": [
+        "Within 25 feet, but not less than 15 feet from the nearest railroad crossing.",
+        "Within 50 feet, but not less than 15 feet from the nearest railroad crossing.",
+        "Within 75 feet, but not less than 25 feet from the nearest railroad crossing. D. Within 100 feet, but not less than 50 feet from the nearest railroad crossing."
+      ],
+      "answer": [
+        2
+      ],
+      "time": 300,
+      "id": 43,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "If the front right wheel of a vehicle runs off the pavement, a driver should ease off the accelerator, allow the vehicle to slow down, and gently steer back onto the \npavement.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 44,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "This sign means:",
+      "options": [
+        "",
+        "Yield Right-of-Way"
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 45,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "In order to reinstate full driving privileges after a DRIVING UNDER THE INFLUENCE (DUI) revocation, a person must:",
+      "options": [
+        "Carry high-risk auto insurance for three years.",
+        "Be approved for reinstatement by a Secretary of State Hearing Officer and pay a\u2028$60 reinstatement fee.",
+        "Submit to a professional assessment of alcohol and/or drug use and attend a remedial or rehabilitation program.\u2028D. Wait a minimum of one year.\u2028E. All of the above."
+      ],
+      "answer": [
+        5
+      ],
+      "time": 300,
+      "id": 46,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "It is unlawful for any person to leave the roadway and travel across private property to avoid an official control device.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 47,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "When driving on a slippery road and the rear end of your vehicle starts to skid, you should",
+      "options": [
+        "Apply the brakes quickly.",
+        "Turn the front wheels in the direction of the skid.",
+        "Do Not Enter \nPersons with Disabilities Parking",
+        "Hold the wheel firmly and steer straight ahead, braking gradually"
+      ],
+      "answer": [
+        2
+      ],
+      "time": 300,
+      "id": 48,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "when a traffic light shows both a red light and a green arrow in the direction you wish to turn, you:",
+      "options": [
+        "Have the right-of-way over pedestrians in turning in the direction of the arrow.",
+        "May proceed in the direction of the arrow with caution.",
+        "Must stop and remain stopped until the red light has changed."
+      ],
+      "answer": [
+        2
+      ],
+      "time": 300,
+      "id": 49,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "This sign means:",
+      "options": [
+        "",
+        "Pedestrian Crossing"
+      ],
+      "answer": [
+        3
+      ],
+      "time": 300,
+      "id": 50,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "The \"2-Second Rule\" works like this: when the vehicle ahead of you passes a fixed object like a tree, etc., if you begin counting, \"one thousand one, one thousand two\"; then if\u2028you reach the same tree before you have finished saying \"one thousand two\", you are following too closely.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 51,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "Illinois law requires children under age 6 to be secured by a restraint system or seat belt when traveling in a motor vehicle:",
+      "options": [
+        "In the front seat only.",
+        "Anywhere in the vehicle.",
+        "In the back seat only. D. Never, this is not a law."
+      ],
+      "answer": [
+        2
+      ],
+      "time": 300,
+      "id": 52,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "A driver moving out of an alley, private road, or driveway within an urban area must:",
+      "options": [
+        "Sound your horn and exit quickly.",
+        "Stop only if there are vehicles coming down the street.",
+        "Stop before reaching the sidewalk and yield to pedestrians and vehicles before proceeding."
+      ],
+      "answer": [
+        3
+      ],
+      "time": 300,
+      "id": 53,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "If you MUST drive during foggy weather, you should turn on the low-beam headlights and:",
+      "options": [
+        "Flash your lights routinely.",
+        "Keep your foot on the brake pedal so your tail lights will be seen more easily.",
+        "Drive at a speed that will allow you to stop within your field of vision."
+      ],
+      "answer": [
+        3
+      ],
+      "time": 300,
+      "id": 54,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "During the Initial Licensing Phase, a teen driver is allowed only two passengers under age 20 in the vehicle during the first 12 months of licensing.",
+      "options": [
+        "Railroad Warning \nSide Road",
+        "True",
+        "False"
+      ],
+      "answer": [
+        2
+      ],
+      "time": 300,
+      "id": 55,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "When approaching a blind pedestrian carrying a white cane or accompanied by a guide dog:",
+      "options": [
+        "You may pass if you slow down and sound the horn.",
+        "You must yield the right-of-way.",
+        "You may pass if there are no vehicles approaching from the opposite direction."
+      ],
+      "answer": [
+        2
+      ],
+      "time": 300,
+      "id": 56,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "Motorcycles, though smaller and lighter in weight, have the same right-of-way privileges as other vehicles. Special observance should be given to motorcyclists when they\u2028approach an intersection, a railroad crossing, bridge or when bad weather occurs.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 57,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "Your driving privileges will be suspended if you are convicted of illegally passing a stopped school bus.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 58,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "When you are driving and one of your tires has a blowout, you should:",
+      "options": [
+        "Quickly steer onto the right shoulder.",
+        "Apply the brakes quickly to reduce speed.",
+        "Grip the steering wheel firmly, take your foot off the gas pedal, and let the vehicle slow down before you drive onto the shoulder."
+      ],
+      "answer": [
+        3
+      ],
+      "time": 300,
+      "id": 59,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "The driver and front-seat passengers (age 6 and above) are required to wear seat safety belts while riding in a motor vehicle on Illinois roadways. Violators are subject to:",
+      "options": [
+        "A $50 fine plus court costs.",
+        "Suspension of their driver\u2019s license.",
+        "A $25 fine plus court costs. D. None of the above."
+      ],
+      "answer": [
+        4
+      ],
+      "time": 300,
+      "id": 60,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "Drivers must yield to pedestrians in an unmarked crosswalk.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 61,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "When experiencing a tire blowout, the driver should apply the brakes quickly and pull off the roadway to check the tire.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        2
+      ],
+      "time": 300,
+      "id": 62,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "You are waiting at an intersection and the traffic signal light changes to green, you may then go ahead:",
+      "options": [
+        "When you think it is safe to do so.",
+        "After first yielding the right-of-way to any persons or vehicles which are within the intersection.",
+        "Immediately."
+      ],
+      "answer": [
+        2
+      ],
+      "time": 300,
+      "id": 63,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "A person who REFUSES to submit to a chemical test, or tests, of his/her blood, breath or urine for the purpose of determining the level of alcohol and/or drug content:",
+      "options": [
+        "Will receive a driver\u2019s license suspension for 12 months for second or more refusals within a 5-year period.",
+        "May have this used as evidence against him/her in court if charged with DRIVING UNDER THE INFLUENCE of alcohol and/or drugs (DUI).",
+        "Will receive a drivers license suspension for six months on first offense. D. All of the above."
+      ],
+      "answer": [
+        4
+      ],
+      "time": 300,
+      "id": 64,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "Your driving privileges will be revoked in the State of Illinois if you are convicted:",
+      "options": [
+        "Drag racing.",
+        "Driving or being in actual physical control of a vehicle while under the influence of alcohol or other drugs (including prescription drugs which may impair driving ability) and/or combinations, thereof.",
+        "Leaving the scene of an accident in which you are involved as a driver, if the accident results in death or personal injury.\u2028D. None of the above.\u2028E. All of the above."
+      ],
+      "answer": [
+        5
+      ],
+      "time": 300,
+      "id": 65,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "When following a vehicle at night it is important to dim your headlights.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 66,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "Headlights must be lighted from sunset to sunrise.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 67,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "When approaching a railroad grade crossing which does NOT have ANY warning system (such as electric flashing lights or gates) you should:",
+      "options": [
+        "Continue at your normal speed.",
+        "Look, listen, slow down in case you have to stop, and proceed when safe to do so.",
+        "Increase speed and cross tracks as quickly as possible."
+      ],
+      "answer": [
+        2
+      ],
+      "time": 300,
+      "id": 68,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "Unless posted otherwise, it is permissible for drivers on a one-way street to turn left on a red light into another one-way street that moves traffic to the left after making \na proper stop and yielding to traffic or pedestrians within the intersection.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 69,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "This sign means:",
+      "options": [
+        "",
+        "No Passing Zone"
+      ],
+      "answer": [
+        3
+      ],
+      "time": 300,
+      "id": 70,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "Motorcycles are entitled to use the full width of a traffic lane, the same as a vehicle. Therefore, when you are driving a vehicle and want to pass a motorcycle, you should:",
+      "options": [
+        "Follow the motorcycle without passing it.",
+        "Cautiously pass the motorcycle, sharing the same lane that it is using.",
+        "Not pass the motorcycle in the same lane that it is using, but change lanes and pass the way you would pass another vehicle."
+      ],
+      "answer": [
+        3
+      ],
+      "time": 300,
+      "id": 71,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "This sign means:",
+      "options": [
+        "",
+        "Railroad Warning"
+      ],
+      "answer": [
+        2
+      ],
+      "time": 300,
+      "id": 72,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "Your driver\u2019s license will be suspended if: after arrested for DRIVING UNDER THE INFLUENCE of alcohol and/or drugs (DUI).",
+      "options": [
+        "You take a chemical test (breath, blood or urine) and register an amount equal to or\u2028over the legal level intoxication (.08%)",
+        "You refuse to take a chemical test (breath, blood or urine).",
+        "You take a chemical test and register .04%"
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 73,
+      "level": 1,
+      "correct_count": 0
+    },
+    {
+      "question": "This sign means:",
+      "options": [
+        "Crossroad",
+        "Merge",
+        "Traffic Signal Ahead"
+      ],
+      "answer": [
+        1
+      ],
+      "time": 300,
+      "id": 74,
+      "level": 1,
+      "correct_count": 0
+    }
+  ]
+}
